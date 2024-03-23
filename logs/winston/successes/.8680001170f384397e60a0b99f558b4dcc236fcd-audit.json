@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Programming Hero Level 2\\University-Management-System\\university-management-auth-service\\logs\\winston\\successes\\.8680001170f384397e60a0b99f558b4dcc236fcd-audit.json",
+    "files": [
+        {
+            "date": 1711191675400,
+            "name": "G:\\Programming Hero Level 2\\University-Management-System\\university-management-auth-service\\logs\\winston\\successes\\PHU-2024-03-23-17-success.log",
+            "hash": "be9157cf9f01d403f77936cfe771807c54ec1a8577b6c137fe740fb2d9f55d37"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -15,8 +15,8 @@
   },
   "author": "Rishad Islam",
   "license": "ISC",
-  "lint-staged":   {
-    "src/**/*.ts":"npm run lint-prettier"
+  "lint-staged": {
+    "src/**/*.ts": "npm run lint-prettier"
   },
   "dependencies": {
     "@types/express": "^4.17.21",
@@ -25,7 +25,9 @@
     "express": "^4.19.1",
     "mongoose": "^8.2.3",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.4.3"
+    "typescript": "^5.4.3",
+    "winston": "^3.12.0",
+    "winston-daily-rotate-file": "^5.0.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
